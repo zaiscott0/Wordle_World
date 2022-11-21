@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wordle World</string>
+    <string name="text_input">Text Input</string>
+    <string name="guess">Guess!</string>
+    <string name="answer">Answer</string>
+    <string name="output_3">Output #3</string>
+    <string name="input_3">Input #3</string>
+    <string name="output_2">Output #2</string>
+    <string name="input_2">Input #2</string>
+    <string name="output_1">Output #1</string>
+    <string name="input_1">Input#1</string>
+    <string name="guess_2">Guess #2</string>
+    <string name="guess_1">Guess #1</string>
+    <string name="guess_3_check">Guess #3 Check</string>
+    <string name="guess_2_check">Guess #2 Check</string>
+    <string name="guess_3">Guess #3</string>
+    <string name="guess_1_check">Guess #1 Check</string>
+    <string name="input_a_four_character_word_and_press_quot_guess_quot_n_testing_n_test">Input a four-character word and press \"GUESS!\" \n Testing \n Test</string>
+    <string name="instructions">Instructions\n
+        1. Input a 4-character string (all-caps).\n
+        2. Press the "GUESS!" button.\n
+        3. Check your result. Did you correctly guess the word?\n
+        \n
+        O = You chose the correct character in the correct position.\n
+        + = You chose the correct character, but in the wrong position.\n
+        X = You chose a character that is not in the target word.\n
+    </string>
+</resources>
